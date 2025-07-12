@@ -33,10 +33,10 @@ export default {
       title: "Reader mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Notes", // Explorer
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "", // Created with
     },
     graph: {
       title: "Graph View",

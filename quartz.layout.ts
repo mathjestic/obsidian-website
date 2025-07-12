@@ -40,7 +40,18 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Notes", //merubah nama explorer menjadi notes
+      title: "Notes", //merubah nama explorer menjadi Notes
+      folderDefaultState: "collapsed",
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName)
+      },
+      // mapFn: (node) => {
+      //   if (node.isFolder) {
+      //     node.displayName = "📁 " + node.displayName
+      //   } else {
+      //     node.displayName = "📄 " + node.displayName
+      //   }
+      // },
     }),
   ],
   right: [
@@ -66,7 +77,11 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      title: "Notes", //merubah nama explorer menjadi notes
+      title: "Notes", //merubah nama explorer menjadi Notes
+      folderDefaultState: "collapsed",
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName)
+      },
     }),
   ],
   right: [],
