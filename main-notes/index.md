@@ -12,7 +12,7 @@ Anyway, kemungkinan besar kalian datang kesini dari buku pembahasan soal osn yan
 
 [Download Buku Pembahasan OSN by Nabil](https://drive.google.com/uc?export=download&id=1Tota2e48soWj86YfANfZcnxhKwK06xh9)
 
-![[osn-book.jpg|150]]
+![[Assets/Images/osn-book.jpg|150]]
 
 Kalau kalian merasa terbantu, tolong bantu share yaa temen2!
 
@@ -28,6 +28,6 @@ Daaan terakhir, saya akan buka kelas persiapan OSP dengan level Intermediate! Ta
 
 Fokusnya ke soal uraian, setiap materi 2 jam (total 8 jam). Setiap handoutnya punya materi, beberapa contoh soal, latihan soal, hint, dan solusi.
 
-![[vieta-jumping.jpg | 150]] ![[quadratic-residue.jpg | 150]] ![[invariant-principle.jpg|150]] ![[functional-equations.jpg|150]] 
+![[Assets/Images/vieta-jumping.jpg | 150]] ![[Assets/Images/quadratic-residue.jpg | 150]] ![[Assets/Images/invariant-principle.jpg|150]] ![[Assets/Images/functional-equations.jpg|150]] 
 
 Untuk cara daftar nanti akan saya share di IG dan di website ini. Jadi follow [IG mathjestic](https://www.instagram.com/mathjestic.id/) yaa!
