@@ -1,3 +1,205 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// own
+// ini buat spaces before and after display math
+.katex-display {
+  padding-block: 1.2em !important;
+}
+
+// own
+// line spacing
+.center {
+  tbody, p, ul li, ol li {
+    line-height: 2rem;
+    // line-height: 1.8rem;
+  }
+}
+
+.center {
+  ul li, ol li {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+
+// https://forum.obsidian.md/t/callout-title-icon-centering/61540
+// Callout Title center align with Icon
+.callout-title {
+  align-items: center;
+}
+.callout-fold,
+.callout-icon {
+  margin-top: unset;
+  align-self: unset;
+}
+
+//Defining New Callout
+.callout[data-callout="soal"] {
+  --callout-icon-question: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>');
+  --color: #dba642;
+  --border: #dba64244;
+  --bg: #dba64210;
+  --callout-icon: var(--callout-icon-question);
+}
+
+.callout[data-callout="solusi"] {
+  --callout-icon-success: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>');
+  --color: #09ad7a;
+  --border: #09ad7144;
+  --bg: #09ad7110;
+  --callout-icon: var(--callout-icon-success);
+}
+
+.callout[data-callout="klaim"] {
+  --callout-icon-sparkle: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkle-icon lucide-sparkle"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/></svg>');
+  --color: #00bfa5;
+  --border: #00bfa544;
+  --bg: #00bfa510;
+  --callout-icon: var(--callout-icon-sparkle);
+  border-width: 0 0 0 4px;
+  border-radius: 0px;
+}
+
+// centering image
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments
+//Relative-width Resizing Image from S - Images Adjustments.css
+img[alt][alt*=relative],
+div:not(img) >img[alt][alt*=relative] {
+  --micro: 10%;
+  --tiny: 20%;
+  --small: 30%;
+  --small-med: 40%;
+  --med-small: 50%;
+  --medium: 60%;
+  --med-tall: 70%;
+  --tall: 85%;
+}
+img[alt][alt*=relative][alt*=wmicro],
+div:not(img) >img[alt][alt*=relative][alt*=wmicro] {
+  width: var(--micro);
+}
+img[alt][alt*=relative][alt*=wtiny],
+div:not(img) >img[alt][alt*=relative][alt*=wtiny] {
+  width: var(--tiny);
+}
+img[alt][alt*=relative][alt*=wsmall],
+div:not(img) >img[alt][alt*=relative][alt*=wsmall] {
+  width: var(--small);
+}
+img[alt][alt*=relative][alt*=ws-med],
+div:not(img) >img[alt][alt*=relative][alt*=ws-med] {
+  width: var(--small-med);
+}
+img[alt][alt*=relative][alt*=wm-sm],
+div:not(img) >img[alt][alt*=relative][alt*=wm-sm] {
+  width: var(--med-small);
+}
+img[alt][alt*=relative][alt*=wmed],
+div:not(img) >img[alt][alt*=relative][alt*=wmed] {
+  width: var(--medium);
+}
+img[alt][alt*=relative][alt*=wm-tl],
+div:not(img) >img[alt][alt*=relative][alt*=wm-tl] {
+  width: var(--med-tall);
+}
+img[alt][alt*=relative][alt*=wtall],
+div:not(img) >img[alt][alt*=relative][alt*=wtall] {
+  width: var(--tall);
+}
+img[alt][alt*=relative][alt*=hmicro],
+div:not(img) >img[alt][alt*=relative][alt*=hmicro] {
+  width: var(--micro);
+}
+img[alt][alt*=relative][alt*=htiny],
+div:not(img) >img[alt][alt*=relative][alt*=htiny] {
+  width: var(--tiny);
+}
+img[alt][alt*=relative][alt*=hsmall],
+div:not(img) >img[alt][alt*=relative][alt*=hsmall] {
+  width: var(--small);
+}
+img[alt][alt*=relative][alt*=hs-med],
+div:not(img) >img[alt][alt*=relative][alt*=hs-med] {
+  width: var(--small-med);
+}
+img[alt][alt*=relative][alt*=hm-sm],
+div:not(img) >img[alt][alt*=relative][alt*=hm-sm] {
+  width: var(--med-small);
+}
+img[alt][alt*=relative][alt*=hmed],
+div:not(img) >img[alt][alt*=relative][alt*=hmed] {
+  width: var(--medium);
+}
+img[alt][alt*=relative][alt*=hm-tl],
+div:not(img) >img[alt][alt*=relative][alt*=hm-tl] {
+  width: var(--med-tall);
+}
+img[alt][alt*=relative][alt*=htall],
+div:not(img) >img[alt][alt*=relative][alt*=htall] {
+  width: var(--tall);
+}
+img[alt][alt*=relative][alt*=hfull],
+div:not(img) >img[alt][alt*=relative][alt*=hfull] {
+  width: 100%;
+}
+
+img[alt][alt*=relative],
+div:not(img) >img[alt][alt*=relative] {
+  display: block;
+  margin: auto;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+// https://forum.obsidian.md/t/auto-adaptive-images-for-dark-light-theme/13494
+/* Image dynamic colors inversion */
+[saved-theme=light] img[alt*=invert_W] {
+  filter: invert(1)
+}
+
+[saved-theme=dark] img[alt*=invert_B] {
+  filter: invert(1)
+}
+
+[saved-theme=light] img[alt*=invert_WC] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.45);
+}
+
+[saved-theme=dark] img[alt*=invert_BC] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.5);
+}
+
+// https://forum.obsidian.md/t/auto-adaptive-images-for-dark-light-theme/13494
+/* Image dynamic colors inversion */
+// [saved-theme=light] img[alt*=invert_W] {
+//   filter: invert(1) hue-rotate(180deg);
+// }
+
+// [saved-theme=dark] img[alt*=invert_B] {
+//   filter: invert(1) hue-rotate(180deg);
+// }
+
+// [saved-theme=light] img[alt*=invert_WC] {
+//   filter: invert(1) hue-rotate(180deg) contrast(1.45);
+// }
+
+// [saved-theme=dark] img[alt*=invert_BC] {
+//   filter: invert(1) hue-rotate(180deg) contrast(1.5);
+// }
+
+
+
+
+
+// BEST CUSTOM CALLOUT
+//https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Outlined%20callout.md
+
+
