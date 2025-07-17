@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Garden!
-publish: true
+publish: false
 ---
 Hi! I'm Nabil Nabawi, a math olympiad tutor.
 
