@@ -12,6 +12,6 @@ Hi! I'm Nabil Nabawi, a math olympiad tutor.
 
 [Download Buku Pembahasan KTOM by Nabil](https://drive.google.com/uc?export=download&id=1dkKevcKvuGC3bU7zXVxVQlmBlpnWVJ4o)
 
-![[bookcover-ktom-chili.jpg|150]]
+![[Assets/Images/bookcover-ktom-chili.jpg|150]]
 
 Kalau kalian merasa terbantu, tolong bantu share yaa temen2!!!
