@@ -10,8 +10,8 @@ Hi! I'm Nabil Nabawi, a math olympiad tutor.
 
 ## Solusi KTOM
 
-[Download Buku Pembahasan KTOM by Nabil](https://drive.google.com/uc?export=download&id=1dkKevcKvuGC3bU7zXVxVQlmBlpnWVJ4o)
+[Download Buku Pembahasan KTOM by Nabil](https://drive.google.com/uc?export=download&id=1ifB3qQ0eUquV_K_tQZ1xu6i9SS7vhm-9)
 
-![[Assets/Images/bookcover-ktom-chili.jpg|150]]
+![[Assets/Images/bookcover-ktom-sunset.jpg|150]]
 
 Kalau kalian merasa terbantu, tolong bantu share yaa temen2!!!
