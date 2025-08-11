@@ -91,3 +91,7 @@ NEW BOOK: GOTY (Gems Of The Year)
 
 Nice Links:
 1. https://cms.math.ca/publications/crux/
+
+
+Latex Book Additional Feature:
+Lihat microtype package manual. Bisa munculin unseen text keren banget woy.
