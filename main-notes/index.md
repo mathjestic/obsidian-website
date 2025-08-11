@@ -1,5 +1,7 @@
 ---
 publish: true
+title: Welcome to My Garden!
+tags:
 ---
 Hi! I'm Nabil Nabawi, a math olympiad tutor.
 ## Solusi OSN
