@@ -94,4 +94,7 @@ Nice Links:
 
 
 Latex Book Additional Feature:
-Lihat microtype package manual. Bisa munculin unseen text keren banget woy.
+Lihat microtype package manual. Bisa munculin unseen text keren banget woy. (https://mirror.unpad.ac.id/ctan/macros/latex/contrib/microtype/microtype.pdf)
+Check ocgx package (https://mirror.unpad.ac.id/ctan/macros/latex/contrib/ocgx/ocgx-manual-en.pdf)
+
+Masih kurang references (further reading) dan figure name and references.

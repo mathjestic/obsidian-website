@@ -3,17 +3,18 @@ publish: true
 title: Welcome to My Garden!
 tags:
 ---
-Hi! I'm Nabil Nabawi, a math olympiad tutor.
-## Solusi OSN
+Hi! I'm Nabil Nabawi Wibisono, a math olympiad tutor. Alumni Matematika ITB dan Pelatnas 2 IMO 2017.
 
-[Download Buku Pembahasan OSP by Nabil](https://drive.google.com/uc?export=download&id=1xe5dub2qEYvz7I1Ro-XC9PO-RLV3Xvow)
+Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/sekolah/umum bisa WA 082337293909 atau chat IG [@mathjestic.id](https://www.instagram.com/mathjestic.id/)
 
-![[Assets/Images/osn-book.jpg|250]]
+## Solusi OSN SMA
+
+[Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/file/d/1QMLWd73_SDQLlkMo0RZbqAPJGxl-QC2V/view?usp=sharing)
+
+![[Assets/Images/bookcover-osn-sma-viola.jpg|250]]
 
 ## Solusi KTOM
 
 [Download Buku Pembahasan KTOM by Nabil](https://drive.google.com/uc?export=download&id=1JF7LDhVcsjZEOjvFAymbNpWpbmGE9z4e)
 
 ![[Assets/Images/bookcover-ktom-botany.jpg|250]]
-
-Check my instagram: [@mathjestic.id](https://www.instagram.com/mathjestic.id/)
