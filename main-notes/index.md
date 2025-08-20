@@ -9,12 +9,12 @@ Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/s
 
 ## Solusi OSN SMA
 
-[Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/file/d/1QMLWd73_SDQLlkMo0RZbqAPJGxl-QC2V/view?usp=sharing)
+[Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/uc?export=download&id=1QMLWd73_SDQLlkMo0RZbqAPJGxl-QC2V)
 
 ![[Assets/Images/bookcover-osn-sma-viola.jpg|250]]
 
 ## Solusi KTOM
 
-[Download Buku Pembahasan KTOM by Nabil](https://drive.google.com/uc?export=download&id=1JF7LDhVcsjZEOjvFAymbNpWpbmGE9z4e)
+[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1JF7LDhVcsjZEOjvFAymbNpWpbmGE9z4e)
 
 ![[Assets/Images/bookcover-ktom-botany.jpg|250]]

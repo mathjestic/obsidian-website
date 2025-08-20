@@ -46,16 +46,16 @@ Floor function
 | 14  | G    | Homothety                 |                       |
 | 15  | G    | Spiral Similarity         |                       |
 | 16  | G    | Symmedian                 |                       |
-| 17  |      |                           |                       |
-| 18  | C    | Rekursif                  |                       |
-| 19  | C    | Generating Function       |                       |
-| 20  | C    | Coloring                  |                       |
-| 21  | C    | Invarian, Monovarian      |                       |
-| 22  | C    | Ekstremal                 |                       |
-| 23  | C    | Game Theory               |                       |
-| 24  |      |                           |                       |
-| 25  |      |                           |                       |
-| 26  |      |                           |                       |
+| 17  | G    | Harmonic Division         |                       |
+| 18  | G    | Pole & Polar              |                       |
+| 19  | G    | Inversion                 |                       |
+| 20  |      |                           |                       |
+| 21  | C    | Rekursif                  |                       |
+| 22  | C    | Generating Function       |                       |
+| 23  | C    | Coloring                  |                       |
+| 24  | C    | Invarian, Monovarian      |                       |
+| 25  | C    | Ekstremal                 |                       |
+| 26  | C    | Game Theory               |                       |
 | 27  |      |                           |                       |
 | 28  | X    | Latihan Soal              | yang buanyaakk        |
 
