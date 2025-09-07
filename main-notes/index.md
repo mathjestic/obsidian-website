@@ -15,6 +15,6 @@ Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/s
 
 ## Solusi KTOM
 
-[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1JF7LDhVcsjZEOjvFAymbNpWpbmGE9z4e)
+[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=16Jvafd0NKzy7MP7KZ_VEvjdgZQN1iBd-)
 
-![[Assets/Images/bookcover-ktom-botany.jpg|250]]
+![[Assets/Images/bookcover-ktom-nifle.jpg|250]]
