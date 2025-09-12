@@ -9,9 +9,9 @@ Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/s
 
 ## Solusi OSN SMA
 
-[Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/uc?export=download&id=1QMLWd73_SDQLlkMo0RZbqAPJGxl-QC2V)
+[Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/uc?export=download&id=1Yl6JYTeic0-zjK150a11Jv753WCltcxb)
 
-![[Assets/Images/bookcover-osn-sma-viola.jpg|250]]
+![[Assets/Images/bookcover-osn-sma-chili.jpg|250]]
 
 ## Solusi KTOM
 
