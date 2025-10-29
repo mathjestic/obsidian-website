@@ -15,6 +15,6 @@ Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/s
 
 ## Solusi KTOM Oktober 2025
 
-[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1H21bed-qK366785bqaMJvBZKSJQKGt6d)
+[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=18qyQS7BmIU6B-9wX-C0BFMja9oALrsjI)
 
 ![[Assets/Images/bookcover-ktom-azuria.jpg|250]]
