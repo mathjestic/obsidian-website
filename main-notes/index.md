@@ -13,8 +13,8 @@ Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/s
 
 ![[Assets/Images/bookcover-osn-sma-chili.jpg|250]]
 
-## Solusi KTOM Oktober 2025
+## Solusi KTOM November 2025
 
-[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=18qyQS7BmIU6B-9wX-C0BFMja9oALrsjI)
+[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1kPjJM3PkTfc0qLmYYemwshxEr-TYleiL)
 
-![[Assets/Images/bookcover-ktom-azuria.jpg|250]]
+![[Assets/Images/bookcover-ktom-indigo.jpg|250]]
