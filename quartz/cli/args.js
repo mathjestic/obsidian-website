@@ -2,7 +2,7 @@ export const CommonArgv = {
   directory: {
     string: true,
     alias: ["d"],
-    default: "main-notes",
+    default: "obsidian-website-content",
     describe: "directory to look for content files",
   },
   verbose: {

@@ -7,14 +7,14 @@ Hi! I'm Nabil Nabawi Wibisono, a math olympiad tutor. Alumni Matematika ITB dan 
 
 Untuk informasi mengenai tutoring olimpiade matematika SD/SMP/SMA, baik privat/sekolah/umum bisa WA 082337293909 atau chat IG [@mathjestic.id](https://www.instagram.com/mathjestic.id/)
 
+
+## Solusi KTOM November 2025
+
+[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1AYp_sCm6sBbP479ePkyKW0EGYSqha98_)
+
+![[Assets/Images/bookcover-ktom-indigo.jpg|250]]
 ## Solusi OSN SMA 2025
 
 [Download Buku Soal dan Solusi OSN SMA by Nabil](https://drive.google.com/uc?export=download&id=1Yl6JYTeic0-zjK150a11Jv753WCltcxb)
 
 ![[Assets/Images/bookcover-osn-sma-chili.jpg|250]]
-
-## Solusi KTOM November 2025
-
-[Download Buku Soal dan Solusi KTOM by Nabil](https://drive.google.com/uc?export=download&id=1kPjJM3PkTfc0qLmYYemwshxEr-TYleiL)
-
-![[Assets/Images/bookcover-ktom-indigo.jpg|250]]
