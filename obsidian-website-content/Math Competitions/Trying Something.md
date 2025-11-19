@@ -1,3 +1,7 @@
+---
+title: Trying Something
+publish: true
+---
 
 ![[ktom-2025-11-B-p4-fig1.pdf| invert_B | relative wsmall]]
 
